@@ -1,0 +1,8 @@
+参考链接:https://github.com/overtrue/laravel-lang
+ composer require "overtrue/laravel-lang:~3.0"
+ 将config/app.php内的
+ Illuminate\Translation\TranslationServiceProvider::class,
+ 替换为: 注意是替换不是修改
+ Overtrue\LaravelLang\TranslationServiceProvider::class,
+ 修改config/app.php内的
+  'locale'=>'zh-CN'

@@ -1,0 +1,11 @@
+准备工作：
+1. PHP 7 版本
+2. Composer 包管理工具
+3. Laravel 5.3 框架
+4. EasyWechat 最新版
+要求：
+使用composer搭建基本的laravel运行环境，能打开首页,会使用 php artisan 基本命令
+
+//easywechat
+对微信的接口进行封转，用起来最好的一套微信SDK
+

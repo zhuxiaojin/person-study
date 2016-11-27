@@ -1,0 +1,6 @@
+1.该方案只针对laravel 5.3
+paginate(num) 对查询结果执行该命令，可得到满足条件的结果集;注意只有大于1的结果集才可以使用该命令
+simplepaginate(num) 简单分页展示,只有上一页和下一页
+2.执行php artisan vendor:publish 将封装好的分页样式复制到view.vendor.pagination下,默认样式为default.blade.php
+3.view 展示
+$articles->links($css)  $css为选填,控制分页样式 'vendor.pagination.simple-default' 可以切换为另一样式分页

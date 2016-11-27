@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>laravel</title>
+  <style>
+  </style>
+  <!--导入所需要的js和CSS-->
+  <link href="http://cdn.bootcss.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src='http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js'></script>
+  <script type="text/javascript" src='http://cdn.bootcss.com/bootstrap/3.3.2/js/bootstrap.min.js'></script>
+
+</head>
+<body>    
+@yield('content')
+<footer class="text-center row"><h4>项目部laravel测试</h4></footer>
+</body>
+</html>

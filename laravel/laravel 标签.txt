@@ -1,0 +1,4 @@
+{{$loop}} loop用于foreach循环内，类似与key
+1.{{$loop->index}} 从1开始计数,罗列标记
+2.{{$loop->count}} 一共有多少条数据，统计总数
+3.{{$loop->remaining}} 除此之外还有多少条数据未显示

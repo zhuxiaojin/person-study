@@ -1,0 +1,7 @@
+1.创建mail 文件夹
+执行php artisan make:mail RegisterToMail
+2.定义发送邮件的视图
+RegisterToMail 里的build()指定发送内容页面并定义
+3.修改config/email.php 内的from设置，修改为自己的发送邮箱账号
+4.修改env设置 qq配置为；stmp  stmp.qq.com  25  邮箱号    授权码    最后一个设置可以不填写
+5.设置一个测试路由
