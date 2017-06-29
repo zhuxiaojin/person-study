@@ -1,7 +1,7 @@
-1.composer ÏÂÔØlaravel5.2-5.3
-2.ÐÞ¸Ä»ù±¾ÅäÖÃ time
-3.ÐÂ½¨Êý¾Ý¿â°ó¶¨ÐÅÏ¢£¬´´½¨±í
-4.´´½¨controllerºÍmodel
-5.Ð´Èë²âÊÔÊý¾Ý migration
-6.ÍêÉÆcontroller
-7.¶¨ÒåÐèÒªµÄÂ·ÓÉ£¨×¢ÒâÌá½»·½Ê½£©
+ï»¿1.composer ä¸‹è½½laravel5.2-5.3
+2.ä¿®æ”¹åŸºæœ¬é…ç½® time
+3.æ–°å»ºæ•°æ®åº“ç»‘å®šä¿¡æ¯ï¼Œåˆ›å»ºè¡¨
+4.åˆ›å»ºcontrollerå’Œmodel
+5.å†™å…¥æµ‹è¯•æ•°æ® migration
+6.å®Œå–„controller
+7.å®šä¹‰éœ€è¦çš„è·¯ç”±ï¼ˆæ³¨æ„æäº¤æ–¹å¼ï¼‰
