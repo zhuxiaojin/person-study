@@ -1,6 +1,6 @@
-1.¸Ã·½°¸Ö»Õë¶Ôlaravel 5.3
-paginate(num) ¶Ô²éÑ¯½á¹ûÖ´ĞĞ¸ÃÃüÁî£¬¿ÉµÃµ½Âú×ãÌõ¼şµÄ½á¹û¼¯;×¢ÒâÖ»ÓĞ´óÓÚ1µÄ½á¹û¼¯²Å¿ÉÒÔÊ¹ÓÃ¸ÃÃüÁî
-simplepaginate(num) ¼òµ¥·ÖÒ³Õ¹Ê¾,Ö»ÓĞÉÏÒ»Ò³ºÍÏÂÒ»Ò³
-2.Ö´ĞĞphp artisan vendor:publish ½«·â×°ºÃµÄ·ÖÒ³ÑùÊ½¸´ÖÆµ½view.vendor.paginationÏÂ,Ä¬ÈÏÑùÊ½Îªdefault.blade.php
-3.view Õ¹Ê¾
-$articles->links($css)  $cssÎªÑ¡Ìî,¿ØÖÆ·ÖÒ³ÑùÊ½ 'vendor.pagination.simple-default' ¿ÉÒÔÇĞ»»ÎªÁíÒ»ÑùÊ½·ÖÒ³
+ï»¿1.è¯¥æ–¹æ¡ˆåªé’ˆå¯¹laravel 5.3
+paginate(num) å¯¹æŸ¥è¯¢ç»“æœæ‰§è¡Œè¯¥å‘½ä»¤ï¼Œå¯å¾—åˆ°æ»¡è¶³æ¡ä»¶çš„ç»“æœé›†;æ³¨æ„åªæœ‰å¤§äº1çš„ç»“æœé›†æ‰å¯ä»¥ä½¿ç”¨è¯¥å‘½ä»¤
+simplepaginate(num) ç®€å•åˆ†é¡µå±•ç¤º,åªæœ‰ä¸Šä¸€é¡µå’Œä¸‹ä¸€é¡µ
+2.æ‰§è¡Œphp artisan vendor:publish å°†å°è£…å¥½çš„åˆ†é¡µæ ·å¼å¤åˆ¶åˆ°view.vendor.paginationä¸‹,é»˜è®¤æ ·å¼ä¸ºdefault.blade.php
+3.view å±•ç¤º
+$articles->links($css)  $cssä¸ºé€‰å¡«,æ§åˆ¶åˆ†é¡µæ ·å¼ 'vendor.pagination.simple-default' å¯ä»¥åˆ‡æ¢ä¸ºå¦ä¸€æ ·å¼åˆ†é¡µ
